@@ -7,7 +7,7 @@
    - `model`: VARCHAR(255), NOTNULL
    - `year_of_production`: YEAR, NOTNULL
    - `kilometers_driven`: INT, NOTNULL
-   - `price_$`: DECIMAL, NOTNULL
+   - `price_$`: DECIMAL(10,2), NOTNULL
    - `vehicle_selling_status`: VARCHAR(255), NOTNULL
    - `name_seller`: VARCHAR(255), NULL
    - `number_seller`: VARCHAR(255), NULL
