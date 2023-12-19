@@ -13,7 +13,6 @@
    - `number_seller`: VARCHAR(255), NULL
    - `car_photo`: VARCHAR(255), NULL
    - `insertion_date`: DATETIME, NOTNULL
-   - `car_image`: VARCHAR(255), NULL
    - `car_location`: VARCHAR(255), NULL
    - `maintenance_history`: TEXT, NULL
    - `sales_history`: TEXT, NULL
